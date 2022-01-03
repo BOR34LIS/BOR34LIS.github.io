@@ -1,0 +1,16 @@
+.nav-logo img {
+    width: 3rem;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+footer {
+    background-color: #0DCAF0;
+}
+
+.navbar-nav {
+    opacity: 75%;
+}
