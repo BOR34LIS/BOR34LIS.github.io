@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
 .nav-logo img {
     width: 3rem;
 }
@@ -5,6 +7,9 @@
 body {
     background-color: black;
     color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
 }
 
 footer {
@@ -13,4 +18,27 @@ footer {
 
 .navbar-nav {
     opacity: 75%;
+}
+
+.parrafos {
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+
+.card {
+    background-color: #0DCAF0;
+}
+
+.card img {
+    width: 286px;
+    height: 190px;
+}
+
+.formulario {
+    padding-right: 12rem;
+    padding-left: 12rem;
+}
+
+.logos {
+    background-color: #0DCAF0;
 }
