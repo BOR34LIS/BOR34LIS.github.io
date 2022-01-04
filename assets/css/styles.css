@@ -25,12 +25,13 @@ footer {
 }
 
 .parrafos {
-    padding-left: 20rem;
-    padding-right: 20rem;
+    margin-left: 7rem;
+    margin-right: 7rem;
 }
 
 .card {
     background-color: #0DCAF0;
+    margin-bottom: 3rem;
 }
 
 .card img {
@@ -39,10 +40,16 @@ footer {
 }
 
 .formulario {
-    padding-right: 12rem;
-    padding-left: 12rem;
+    padding-right: 7rem;
+    padding-left: 7rem;
 }
 
 .logos {
     background-color: #0DCAF0;
 }
+
+.center-block {
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+ }
